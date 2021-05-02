@@ -101,6 +101,7 @@ const styles = StyleSheet.create({
     textAlign: 'left',
     fontFamily: 'monospace',
     fontSize: 23,
+    
     fontStyle: 'bold'
   },
   textOutput2: {
